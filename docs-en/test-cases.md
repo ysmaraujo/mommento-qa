@@ -26,7 +26,7 @@ N/A
   - One indicator dot becomes fully visible  
   - The timer automatically switches to break time (5 minutes)
 
-  ---
+---
 
   ### Test Scenario: Pause Pomodoro timer
 
